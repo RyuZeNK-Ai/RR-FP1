@@ -218,7 +218,7 @@ El mapa de navegación muestra la estructura jerárquica del sitio y cómo el us
 
 ![Mapa de navegación 1](./img/mapa1.png)
 
-![Mapa de navegación 2](./img/mapa2.png)
+<img src="./img/mapa2.png" alt="Mapa de navegación 2">
 
 # **Contenidos Mínimos (6 páginas)**
 
