@@ -1,4 +1,4 @@
-<h1 align="center">SOULINK - Q-ERO v3 Protocol</h1>
+<h1 align="center">💚 SOULINK - Q-ERO v3 Protocol 💚</h1>
 <div align="center">
 
 <table width="95%" style="border-collapse: collapse; border: none;">
