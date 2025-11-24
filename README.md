@@ -4,7 +4,7 @@
 <table width="95%" style="border-collapse: collapse; border: none;">
 <tr>
 
-<td width="60%" valign="top" style="padding: 20px; border: none;">
+<td width="70%" valign="top" style="padding: 20px; border: none;">
 
 ## 👥 Equipo Q-ERO v3 Protocol
 
