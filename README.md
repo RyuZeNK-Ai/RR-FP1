@@ -216,11 +216,9 @@ SouLink opera como organización de impacto social, financiada principalmente po
 
 El mapa de navegación muestra la estructura jerárquica del sitio y cómo el usuario recorre sus secciones.
 
-- ![Mapa de navegación1](./img/mapa1.png)
+* ![Mapa de navegación1](./img/mapa1.png)
 
-
-
-- ![Mapa de navegación2](./img/mapa2.png)
+* ![Mapa de navegación2](./img/mapa2.png)
 
 # **Contenidos Mínimos (6 páginas)**
 
