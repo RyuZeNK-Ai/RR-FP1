@@ -6,7 +6,7 @@
 **🔗 Enlace al Tablero Trello:** [https://trello.com/b/wu013GyD/tablero-soulink](https://trello.com/b/wu013GyD/tablero-soulink)
 
 **Tablero Trello:** 
-![Tablero Trello](../img/Tablero%20Trello.jpg)
+![Tablero Trello](../img/Tablero_Trello.jpg)
 
 
 **Asignación equitativa evidenciada** mediante miembros asignados por tarjeta.
