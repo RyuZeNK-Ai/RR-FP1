@@ -1,28 +1,32 @@
 <h1 align="center">SOULINK - Q-ERO v3 Protocol</h1>
 <div align="center">
 
-<table width="100%">
+<table width="95%" style="border-collapse: collapse; border: none;">
 <tr>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top" style="padding: 20px; border: none;">
 
 ## 👥 Equipo Q-ERO v3 Protocol
 
-- Agustín Ignacio Valenzuela Peña  
-- Anita Fernanda Morales Moreno  
-- Javier Ignacio Valenzuela Tobar  
-- Karim Valenzuela Carrasco  
-- Mauricio Daniel Narváez Villalobos  
-- Nicolás Vladimir Peña Orrego  
-- Vicente Andree Díaz Vergara  
+<div style="background: #f8f9fa; padding: 15px; border-radius: 10px; margin: 10px 0;">
+• Agustín Ignacio Valenzuela Peña<br>
+• Anita Fernanda Morales Moreno<br>
+• Javier Ignacio Valenzuela Tobar<br>
+• Karim Valenzuela Carrasco<br>
+• Mauricio Daniel Narváez Villalobos<br>
+• Nicolás Vladimir Peña Orrego<br>
+• Vicente Andree Díaz Vergara
+</div>
 
 </td>
 
-<td width="50%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle" style="padding: 20px; border: none;">
 
-  <img src="./img/logo_Q-ERO.png" alt="Logo Q-ERO v3 Protocol" width="160" style="margin-right:20px;">
-  
-  <img src="./img/logo_soulink.png" alt="Logo SouLink" width="160">
+<div style="background: white; padding: 25px; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <img src="./img/logo_Q-ERO.png" alt="Logo Q-ERO v3 Protocol" width="180" style="margin-bottom: 15px;">
+  <br>
+  <img src="./img/logo_soulink.png" alt="Logo SouLink" width="180">
+</div>
 
 </td>
 
