@@ -35,8 +35,10 @@
 
 </div>
 
-# **📄 Documento de Normas y Acuerdos del Equipo**
+# **📄 Tareas**
 - [📋 Tarea 2 - Gestión de Proyecto](./docs/README_TASK2.md)
+  
+# **📄 Documento de Normas y Acuerdos del Equipo**
 
 ## **Normas de Convivencia**
 ### **1. Respeto mutuo**  
