@@ -14,10 +14,10 @@
 ### ✅ **Repositorio GitHub colaborativo**
 **🔗 Enlace al Repositorio:** [https://github.com/RyuZeNK-Ai/RR-FP1](https://github.com/RyuZeNK-Ai/RR-FP1)
 
-**Estructura de ramas implementada:** 
+**Estructura de ramas implementada:** <br>
 ![Ramas GitHub](../img/Main_Branches.jpeg)
 
 **🛡️ Protección de Rama Main:**
 
-**Reglas implementadas en GitHub:** 
+**Reglas implementadas en GitHub:** <br>
 ![Protección Main](../img/Regla_Main_Protegida.jpeg)
