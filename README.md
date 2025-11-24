@@ -22,7 +22,7 @@
 
   <img src="./img/logo_Q-ERO.png" alt="Logo Q-ERO v3 Protocol" width="160" style="margin-right:20px;">
   
-  <img src="./imgR/logo_soulink.png" alt="Logo SouLink" width="160">
+  <img src="./img/logo_soulink.png" alt="Logo SouLink" width="160">
 
 </td>
 
@@ -215,9 +215,9 @@ SouLink opera como organización de impacto social, financiada principalmente po
 # **Mapa de Navegación**
 
 El mapa de navegación muestra la estructura jerárquica del sitio y cómo el usuario recorre sus secciones.
-![Mapa de navegación1](mapa1.png)
+![Mapa de navegación1](./img/mapa1.png)
 
-![Mapa de navegación1](mapa2.png)
+![Mapa de navegación1](./img/mapa2.png)
 
 # **Contenidos Mínimos (6 páginas)**
 
